@@ -23,15 +23,6 @@ const App = () => {
         json = await result.json();
         console.log("JSON from result", json);
       }
-
-      // for (var currency in json.results) {
-      //   console.log("currency: ", currency);
-      //   let currencySymbol = json.results[currency].currencySymbol;
-      //   if (!currencySymbol) currencySymbol = currency;
-      //   console.log("symbol: ", currencySymbol);
-      //   const currencyName = json.results[currency].currencyName;
-      //   console.log("name: ", currencyName);
-      // }
       const newCurrencies = Object.keys(json.results);
       console.log("newCurrencies: ", newCurrencies)
       setCurrencyData(json.results);
