@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-dota-api-test/static/css/main.56866054.chunk.css",
+    "main.js": "/react-dota-api-test/static/js/main.24a7065a.chunk.js",
+    "main.js.map": "/react-dota-api-test/static/js/main.24a7065a.chunk.js.map",
+    "runtime-main.js": "/react-dota-api-test/static/js/runtime-main.f68d8717.js",
+    "runtime-main.js.map": "/react-dota-api-test/static/js/runtime-main.f68d8717.js.map",
+    "static/js/2.d6c7f3e4.chunk.js": "/react-dota-api-test/static/js/2.d6c7f3e4.chunk.js",
+    "static/js/2.d6c7f3e4.chunk.js.map": "/react-dota-api-test/static/js/2.d6c7f3e4.chunk.js.map",
+    "static/js/3.1f136920.chunk.js": "/react-dota-api-test/static/js/3.1f136920.chunk.js",
+    "static/js/3.1f136920.chunk.js.map": "/react-dota-api-test/static/js/3.1f136920.chunk.js.map",
+    "index.html": "/react-dota-api-test/index.html",
+    "static/css/main.56866054.chunk.css.map": "/react-dota-api-test/static/css/main.56866054.chunk.css.map",
+    "static/js/2.d6c7f3e4.chunk.js.LICENSE.txt": "/react-dota-api-test/static/js/2.d6c7f3e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f68d8717.js",
+    "static/js/2.d6c7f3e4.chunk.js",
+    "static/css/main.56866054.chunk.css",
+    "static/js/main.24a7065a.chunk.js"
+  ]
+}
