@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-dota-api-test/static/css/main.56866054.chunk.css",
-    "main.js": "/react-dota-api-test/static/js/main.58d07880.chunk.js",
-    "main.js.map": "/react-dota-api-test/static/js/main.58d07880.chunk.js.map",
+    "main.js": "/react-dota-api-test/static/js/main.6e205d2c.chunk.js",
+    "main.js.map": "/react-dota-api-test/static/js/main.6e205d2c.chunk.js.map",
     "runtime-main.js": "/react-dota-api-test/static/js/runtime-main.f68d8717.js",
     "runtime-main.js.map": "/react-dota-api-test/static/js/runtime-main.f68d8717.js.map",
     "static/js/2.f4361c42.chunk.js": "/react-dota-api-test/static/js/2.f4361c42.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f68d8717.js",
     "static/js/2.f4361c42.chunk.js",
     "static/css/main.56866054.chunk.css",
-    "static/js/main.58d07880.chunk.js"
+    "static/js/main.6e205d2c.chunk.js"
   ]
 }
